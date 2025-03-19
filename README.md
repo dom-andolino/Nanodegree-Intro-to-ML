@@ -1,3 +1,3 @@
-# Nanodegree_Intro_to_ML
+# learning-ml-nanodegree
 Udacity's Intro to Machine Learning NanoDegree 
 
